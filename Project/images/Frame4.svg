@@ -1,0 +1,29 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame" clip-path="url(#clip0_1_6278)">
+<g id="Clip path group">
+<mask id="mask0_1_6278" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+<g id="__lottie_element_52">
+<path id="Vector" d="M200 0H0V200H200V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_1_6278)">
+<g id="Group">
+<g id="Group_2">
+<g id="Group_3">
+<path id="Vector_2" d="M51.9369 21.7344C39.4669 21.7344 32.6799 36.3134 40.7029 45.8594L78.2749 90.5614C82.8619 96.0224 82.8619 103.978 78.2749 109.439L40.7029 154.141C32.6799 163.688 39.4669 178.266 51.9369 178.266H148.063C160.533 178.266 167.32 163.688 159.296 154.141L121.725 109.439C117.138 103.978 117.138 96.0224 121.725 90.5614L159.296 45.8594C167.32 36.3134 160.532 21.7344 148.063 21.7344H51.9369Z" fill="url(#paint0_linear_1_6278)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_6278" x1="32.2045" y1="178.427" x2="205.322" y2="93.12" gradientUnits="userSpaceOnUse">
+<stop stop-color="#566B76"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<clipPath id="clip0_1_6278">
+<rect width="200" height="200" fill="white"/>
+</clipPath>
+</defs>
+</svg>

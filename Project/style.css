@@ -1,142 +1,142 @@
 @font-face {
-    font-family: 'Manrope';
-    src: url('./fonts/Manrope-ExtraLight.woff2') format('woff2'),
-        url('./fonts/Manrope-ExtraLight.woff') format('woff');
+    font-family: "Manrope";
+    src: url("./fonts/Manrope-ExtraLight.woff2") format("woff2"),
+        url("./fonts/Manrope-ExtraLight.woff") format("woff");
     font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Manrope';
-    src: url('./fonts/Manrope-Medium.woff2') format('woff2'),
-        url('./fonts/Manrope-Medium.woff') format('woff');
+    font-family: "Manrope";
+    src: url("./fonts/Manrope-Medium.woff2") format("woff2"),
+        url("./fonts/Manrope-Medium.woff") format("woff");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Manrope';
-    src: url('./fonts/Manrope-Bold.woff2') format('woff2'),
-        url('./fonts/Manrope-Bold.woff') format('woff');
+    font-family: "Manrope";
+    src: url("./fonts/Manrope-Bold.woff2") format("woff2"),
+        url("./fonts/Manrope-Bold.woff") format("woff");
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Manrope';
-    src: url('./fonts/Manrope-ExtraBold.woff2') format('woff2'),
-        url('./fonts/Manrope-ExtraBold.woff') format('woff');
+    font-family: "Manrope";
+    src: url("./fonts/Manrope-ExtraBold.woff2") format("woff2"),
+        url("./fonts/Manrope-ExtraBold.woff") format("woff");
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Manrope';
-    src: url('./fonts/Manrope-Light.woff2') format('woff2'),
-        url('./fonts/Manrope-Light.woff') format('woff');
+    font-family: "Manrope";
+    src: url("./fonts/Manrope-Light.woff2") format("woff2"),
+        url("./fonts/Manrope-Light.woff") format("woff");
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Manrope';
-    src: url('./fonts/Manrope-Regular.woff2') format('woff2'),
-        url('./fonts/Manrope-Regular.woff') format('woff');
+    font-family: "Manrope";
+    src: url("./fonts/Manrope-Regular.woff2") format("woff2"),
+        url("./fonts/Manrope-Regular.woff") format("woff");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Manrope';
-    src: url('./fonts/Manrope-SemiBold.woff2') format('woff2'),
-        url('./fonts/Manrope-SemiBold.woff') format('woff');
+    font-family: "Manrope";
+    src: url("./fonts/Manrope-SemiBold.woff2") format("woff2"),
+        url("./fonts/Manrope-SemiBold.woff") format("woff");
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Outfit';
-    src: url('./fonts/Outfit-Black.woff2') format('woff2'),
-        url('./fonts/Outfit-Black.woff') format('woff');
+    font-family: "Outfit";
+    src: url("./fonts/Outfit-Black.woff2") format("woff2"),
+        url("./fonts/Outfit-Black.woff") format("woff");
     font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Outfit';
-    src: url('./fonts/Outfit-ExtraLight.woff2') format('woff2'),
-        url('./fonts/Outfit-ExtraLight.woff') format('woff');
+    font-family: "Outfit";
+    src: url("./fonts/Outfit-ExtraLight.woff2") format("woff2"),
+        url("./fonts/Outfit-ExtraLight.woff") format("woff");
     font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Outfit';
-    src: url('./fonts/Outfit-Regular.woff2') format('woff2'),
-        url('./fonts/Outfit-Regular.woff') format('woff');
+    font-family: "Outfit";
+    src: url("./fonts/Outfit-Regular.woff2") format("woff2"),
+        url("./fonts/Outfit-Regular.woff") format("woff");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Outfit';
-    src: url('./fonts/Outfit-ExtraBold.woff2') format('woff2'),
-        url('./fonts/Outfit-ExtraBold.woff') format('woff');
+    font-family: "Outfit";
+    src: url("./fonts/Outfit-ExtraBold.woff2") format("woff2"),
+        url("./fonts/Outfit-ExtraBold.woff") format("woff");
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Outfit';
-    src: url('./fonts/Outfit-Light.woff2') format('woff2'),
-        url('./fonts/Outfit-Light.woff') format('woff');
+    font-family: "Outfit";
+    src: url("./fonts/Outfit-Light.woff2") format("woff2"),
+        url("./fonts/Outfit-Light.woff") format("woff");
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Outfit';
-    src: url('./fonts/Outfit-Medium.woff2') format('woff2'),
-        url('./fonts/Outfit-Medium.woff') format('woff');
+    font-family: "Outfit";
+    src: url("./fonts/Outfit-Medium.woff2") format("woff2"),
+        url("./fonts/Outfit-Medium.woff") format("woff");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Outfit';
-    src: url('./fonts/Outfit-SemiBold.woff2') format('woff2'),
-        url('./fonts/Outfit-SemiBold.woff') format('woff');
+    font-family: "Outfit";
+    src: url("./fonts/Outfit-SemiBold.woff2") format("woff2"),
+        url("./fonts/Outfit-SemiBold.woff") format("woff");
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Outfit';
-    src: url('./fonts/Outfit-Bold.woff2') format('woff2'),
-        url('./fonts/Outfit-Bold.woff') format('woff');
+    font-family: "Outfit";
+    src: url("./fonts/Outfit-Bold.woff2") format("woff2"),
+        url("./fonts/Outfit-Bold.woff") format("woff");
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Outfit';
-    src: url('./fonts/Outfit-Thin.woff2') format('woff2'),
-        url('./fonts/Outfit-Thin.woff') format('woff');
+    font-family: "Outfit";
+    src: url("./fonts/Outfit-Thin.woff2") format("woff2"),
+        url("./fonts/Outfit-Thin.woff") format("woff");
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -147,7 +147,7 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -o-box-sizing: border-box;
-    -ms-box-sizing: border-box
+    -ms-box-sizing: border-box;
 }
 
 body {
@@ -172,22 +172,21 @@ html {
 }
 
 :root {
-    --black: #201E1E;
+    --black: #201e1e;
     --lightblack: #171717;
-    --lightgreen: #F6FAFB;
-    --white: #FEFEFE;
-    --blue: #693EDF;
-    --lightgrey: #5D5D5D;
-    --orange: #FF5252;
-
+    --lightgreen: #f6fafb;
+    --white: #fefefe;
+    --blue: #693edf;
+    --lightgrey: #5d5d5d;
+    --orange: #ff5252;
+    --darkGray: rgba(23, 23, 23, 0.05)
 }
 
 /* background color class */
 
 .bg_white {
-    background: var(--white)
+    background: var(--white);
 }
-
 
 /********************* TYPOGRAPHY ********************/
 
@@ -195,14 +194,12 @@ a {
     text-decoration: none;
 }
 
-
 ul,
 ol {
     margin: 0;
     padding: 0;
     list-style: none;
 }
-
 
 h1,
 h2,
@@ -228,40 +225,6 @@ img {
     width: auto;
 }
 
-h1,
-.title_h1 {
-    font-size: 70px;
-    line-height: normal;
-    font-weight: 400;
-    color: var(--white);
-}
-
-.title_h1 span {
-    color: var(--orange);
-    font-weight: 700;
-}
-
-h2,
-.title_h2 {
-    font-weight: 300;
-    font-size: 50px;
-    color: var(--black);
-    line-height: 58px;
-}
-
-.title_h2 span {
-    color: var(--orange);
-    font-weight: 700;
-}
-
-h3,
-.title_h3 {
-    font-size: 28px;
-    font-weight: 700;
-    line-height: normal;
-    color: var(--black);
-}
-
 p,
 li {
     font-weight: 300;
@@ -274,9 +237,11 @@ li {
 
 /* ******************header******************** */
 #header {
-    padding: 2% 4%;
+    padding: 2% 0px;
     width: 100%;
     margin: 0 auto;
+    position: absolute;
+    z-index: 999;
 }
 
 .header-logo {
@@ -306,7 +271,7 @@ li {
 .btn-ptn {
     display: flex;
     align-items: center;
-    position: relative
+    position: relative;
 }
 
 .header_main {
@@ -337,12 +302,12 @@ a.black_fill_arrow_btn {
     color: var(--white);
     font-size: 16px;
     font-style: normal;
-    font-family: 'Outfit'
+    font-family: "Outfit";
 }
 
 .btn-arrow {
     display: flex;
-    transition: all .5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
@@ -356,7 +321,6 @@ a.black_fill_arrow_btn {
 .black_fill_arrow_btn:hover .btn-arrow {
     translate: 6px;
     transform: rotate(45deg);
-
 }
 
 .arrow {
@@ -366,7 +330,7 @@ a.black_fill_arrow_btn {
 
 .menu-item-12 a {
     color: var(--lightblack);
-    font-family: 'Outfit';
+    font-family: "Outfit";
     font-size: 20px;
     font-style: normal;
     font-weight: 300;
@@ -402,7 +366,6 @@ a.black_fill_arrow_btn {
     line-height: 160px;
     color: var(--lightblack);
     text-transform: uppercase;
-
 }
 
 .banner-video {
@@ -423,7 +386,7 @@ a.black_fill_arrow_btn {
     transform: rotate(-13.4deg);
     padding: 8px 14px;
     border-radius: 4px;
-    border-color: #FF5252;
+    border-color: #ff5252;
     background: var(--orange);
 }
 
@@ -435,14 +398,14 @@ a.black_fill_arrow_btn {
 }
 
 .Banner-section-tag.cc-digital {
-    background-color: #ECFFA0;
+    background-color: #ecffa0;
     bottom: 140px;
     border: none;
     position: absolute;
     border-radius: 4px;
     left: 67%;
     padding: 8px 12px;
-    transform: rotate(9deg)
+    transform: rotate(9deg);
 }
 
 .Banner-section.cc-digital p {
@@ -464,7 +427,7 @@ a.black_fill_arrow_btn {
     border-radius: 4px;
     border: none;
     padding: 10px 16px;
-    transform: rotate(-7.9deg)
+    transform: rotate(-7.9deg);
 }
 
 .Banner-section-tag.cc-stage p {
@@ -502,13 +465,11 @@ a.black_fill_arrow_btn {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .img-doublee-img {
     max-width: 543px;
     height: 500px;
-
 }
 
 .union {
@@ -676,7 +637,6 @@ a.black_fill_arrow_btn {
     width: 42%;
     height: 132px;
     flex-shrink: 0;
-
 }
 
 .title-content-ptn h3 {
@@ -777,7 +737,7 @@ a.black_fill_arrow_btn {
     align-items: center;
     gap: 10px;
     border-radius: 1000px;
-    border: 0.5px solid #5D5D5D;
+    border: 0.5px solid #5d5d5d;
 }
 
 .blog-countless a {
@@ -928,7 +888,7 @@ a.black_fill_arrow_btn {
     height: 86.944px;
     border-radius: 50%;
     padding: 5%;
-    background-color: #FFFDFA;
+    background-color: #fffdfa;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1218,22 +1178,22 @@ a.black_fill_arrow_btn {
     gap: 27px;
 }
 
-/* *************Newsletter************ */
-.Newsletter-section-main {
+/* *************CTAletter************ */
+.CTA-section-main {
     /* padding-bottom: 7%;     */
     padding: 80px 0;
     background: var(--lightblack);
     overflow: hidden;
 }
 
-.Newsletter-section-inner-content {
+.CTA-section-inner-content {
     display: flex;
     align-items: center;
     justify-content: space-between;
     position: relative;
 }
 
-.Newsletter-left-section {
+.CTA-left-section {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -1241,14 +1201,13 @@ a.black_fill_arrow_btn {
     width: 901px;
 }
 
-.Newsletter-text {
+.CTA-text {
     position: relative;
     display: inline;
-
 }
 
-.Newsletter-text::after {
-    content: '';
+.CTA-text::after {
+    content: "";
     display: inline-block;
     aspect-ratio: 1;
     width: 65px;
@@ -1259,7 +1218,7 @@ a.black_fill_arrow_btn {
     margin-top: 10px;
 }
 
-.Newsletter-text {
+.CTA-text {
     color: var(--white);
     font-family: "Outfit";
     font-size: 70px;
@@ -1270,7 +1229,7 @@ a.black_fill_arrow_btn {
     display: inline;
 }
 
-.news-letter-passage {
+.cta-letter-passage {
     color: var(--lightgrey);
     font-family: "Manrope";
     font-size: 24px;
@@ -1279,7 +1238,7 @@ a.black_fill_arrow_btn {
     line-height: 36px;
 }
 
-.Newsletter-right {
+.CTA-right {
     width: 681px;
     display: flex;
     align-items: center;
@@ -1297,7 +1256,7 @@ a.black_fill_arrow_btn {
     flex: 1;
 }
 
-/* ***********Footer-section */
+/* ***********Footer-section****************** */
 .footer-main {
     padding: 4% 0px;
     background-color: var(--white);
@@ -1313,9 +1272,9 @@ a.black_fill_arrow_btn {
     height: 60px;
 }
 
-.footer-main-newsletter {
+.footer-main-CTA {
     display: flex;
-    align-items: center;  
+    align-items: center;
     justify-content: space-between;
     padding: 50px 0px;
     border-bottom: 1px solid rgb(68 89 100 / 20%);
@@ -1371,9 +1330,9 @@ a.black_fill_arrow_btn {
     gap: 10px;
     flex-shrink: 0;
     border-radius: 350px;
-    background: var(#F6FAFB);
-    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
-
+    background: var(#f6fafb);
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+        rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
 }
 
 .input-footer {
@@ -1387,31 +1346,403 @@ a.black_fill_arrow_btn {
     line-height: 36px;
     outline: none;
 }
-.footer-bottom-content{
+
+.footer-bottom-content {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
     padding-top: 50px;
 }
 
-.footer-bottom-passage{
-color: var(--lightblack);
-font-family: "Manrope";
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+.footer-bottom-passage {
+    color: var(--lightblack);
+    font-family: "Manrope";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
-.footer-line-content{
+
+.footer-line-content {
     display: flex;
     align-items: flex-end;
     gap: 32px;
 }
-.footer-line-content p{
+
+.footer-line-content p {
     color: var(--lightblack);
-font-family: "Manrope";
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+    font-family: "Manrope";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+/* ***********About-page************ */
+
+h1,
+.title_h1 {
+    color: var(--lightblack);
+    font-family: "Outfit";
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 138px;
+    text-transform: capitalize;
+}
+
+h2,
+.title_h2 {
+    color: var(--lightblack);
+    font-family: "Manrope";
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px;
+}
+
+h3,
+.title_h3 {
+    color: var(--lightblack);
+    font-family: "Outfit";
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 110%;
+    text-transform: capitalize;
+}
+
+h4,
+.title_h4 {
+    color: var(--lightblack);
+    font-family: "Outfit";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+}
+
+p {
+    color: var(--lightblack);
+    font-family: "Manrope";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px;
+}
+
+.twenty_four_p p {
+    font-size: 24px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.About-page {
+    background-color: var(--lightgreen);
+    padding: 4%;
+    position: relative;
+    padding: 289px 0;
+}
+
+.about-page-left-section {
+    width: 965px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
+
+.about-page-inner-paddding {
+    display: flex;
+}
+
+.about-page-left-section .title_h1 {
+    color: #838383;
+}
+
+.about-page-left-section .twenty_four_p {
+    opacity: 0.7;
+    max-width: 785px;
+}
+
+.about-page-rigth-section {
+    width: 948.611px;
+    flex-shrink: 0;
+}
+
+/* ****************About-page-content-section**************** */
+.content-section {
+    padding: 4% 0px;
+    background-color: var(--white);
+}
+
+.about-page-content-left-section {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 20px;
+    width: 48.8%;
+}
+
+.about-page-first-images {
+    display: flex;
+    justify-content: flex-start;
+    width: 514px;
+    height: 514px;
+
+}
+
+.about-page-content-wrapper-section {
+    gap: 84px;
+    max-width: 1550px;
+    margin: 0px auto;
+    align-items: center;
+}
+
+.about-page-second-image {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    height: 410px;
+    position: relative;
+
+}
+
+.group_team {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.laptop {
+    width: auto;
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+    align-self: flex-end;
+}
+
+.about-page-content-right-section {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    flex: 1;
+}
+
+.about-page-content-right-section h3 {
+    display: inline;
+    width: 710px;
+}
+
+.about-page-passage {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.traced {
+    display: inline;
+    vertical-align: middle;
+}
+
+.about-page-passage p {
+    line-height: 36px;
+    opacity: 0.7;
+}
+
+/* ****************Industries-section********************** */
+.Industries-section {
+    background-color: var(--lightgreen);
+}
+
+.Industries-section-wrapper {
+    gap: 249px;
+}
+
+.Industries-section-left-section {
+    padding-top: 270px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 36px;
+    width: 781px;
+}
+
+.Industries-section-left-section p {
+    font-size: 40px;
+    line-height: 56px;
+    width: 100%;
+    opacity: 0.7;
+}
+
+.Industries-section-right-section {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.industries-first-button {
+    display: flex;
+    padding: 20px 30px;
+    align-items: center;
+    gap: 16px;
+    border-radius: 50px;
+    background: rgba(23, 23, 23, 0.05)
+}
+
+.industries-first-button .twenty_four_p {
+    padding-left: 36px;
+    position: relative;
+    white-space: nowrap;
+}
+
+.industries-first-button .twenty_four_p::before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+}
+
+.industries-first-button:nth-child(1) .twenty_four_p::before {
+    background-color: #CBC2FF;
+}
+
+.industries-first-button:nth-child(2) .twenty_four_p::before {
+    background-color: #A6EFFF;
+}
+
+.industries-first-button:nth-child(3) .twenty_four_p::before {
+    background-color: #A8FFD0;
+
+}
+
+
+.industries-first-button:nth-child(4) .twenty_four_p::before {
+    background-color: #FFFCA8;
+}
+
+.industries-first-button:nth-child(5) .twenty_four_p::before {
+    background-color: #FFC7A8;
+}
+
+.industries-first-button:nth-child(6) .twenty_four_p::before {
+    background-color: #FFB2A8;
+}
+
+.industries-first-button:nth-child(7) .twenty_four_p::before {
+    background-color: #A8FFD0;
+}
+
+.industries-first-button:nth-child(8) .twenty_four_p::before {
+    background-color: #60FFF5;
+}
+
+/* ************Increment-section*************** */
+
+.Increment-section-inner-wrapper {
+    display: flex;
+    margin: 0px auto;
+    max-width: 1324px;
+    padding: 254px 0 46px;
+    align-items: center;
+
+}
+
+.increment-section-first-content {
+    display: flex;
+    flex-direction: column;
+    row-gap: 32px;
+    padding-right: 118px;
+    margin-right: 138px;
+    border-right: 1px solid rgb(23 23 23 / 30%);
+    text-align: center;
+}
+
+.increment-section-first-content .twenty_four_p {
+    text-align: center;
+}
+
+.increment-section-first-content:nth-of-type(3) {
+    padding-right: 0px;
+    margin-right: 0px;
+    border-right: 0px;
+}
+
+/* *********************Our-mission********************** */
+.our-mission {
+    background-color: #F6F4FC;
+    padding: 120px 0px;
+}
+
+.our-mission-inner-padding {
+    width: 1319px;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.our-mission-inner-padding .twenty_four_p {
+    font-size: 24px;
+}
+
+/* ***********************Current-hiring************************* */
+.current-hiring {
+    padding-top: 160px;
+}
+
+.hiring-wrapper-class {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 45px 32px;
+    padding-top: 57px;
+}
+
+.hiring-card-ptn {
+    flex: 0 1 calc(50% - 22.5px);
+    border-radius: 16px;
+}
+
+.inner-card-content {
+    display: flex;
+    background-color: var(--lightgreen);
+    width: 100%;
+    padding: 30px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 42px;
+}
+.hiring-content-ptn{
+    width: 100%;
+}
+.typo-content-first{
+    gap:16px;
+    align-items: center;
+}
+.hiring-watch-time{
+    gap: 8px;
+    align-items: center;
+    border-right: 1px solid rgb(23 23 23 / 10%);
+    padding-right: 16px;
+}
+.hiring-watch-time .watch{
+    width: 24px;
+    height: 24px;
+    
+}
+.hiring-watch-time p{
+    opacity: 0.9;
+}
+.hiring-year{
+    opacity: 0.9;
 }

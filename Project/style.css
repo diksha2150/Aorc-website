@@ -1378,7 +1378,8 @@ a.black_fill_arrow_btn {
     line-height: normal;
 }
 
-/* ***********About-page************ */
+/* **************About-Page*********** */
+/* ***********About-Page************ */
 
 h1,
 .title_h1 {
@@ -1395,7 +1396,7 @@ h2,
 .title_h2 {
     color: var(--lightblack);
     font-family: "Manrope";
-    font-size: 80px;
+    font-size: 100px;
     font-style: normal;
     font-weight: 300;
     line-height: 32px;
@@ -1440,6 +1441,7 @@ p {
     justify-content: space-between;
 }
 
+/* ************ABout-page************** */
 .About-page {
     background-color: var(--lightgreen);
     padding: 4%;
@@ -1623,7 +1625,6 @@ p {
 
 }
 
-
 .industries-first-button:nth-child(4) .twenty_four_p::before {
     background-color: #FFFCA8;
 }
@@ -1645,7 +1646,6 @@ p {
 }
 
 /* ************Increment-section*************** */
-
 .Increment-section-inner-wrapper {
     display: flex;
     margin: 0px auto;
@@ -1722,27 +1722,350 @@ p {
     align-items: flex-start;
     gap: 42px;
 }
-.hiring-content-ptn{
+
+.hiring-content-ptn {
     width: 100%;
 }
-.typo-content-first{
-    gap:16px;
+
+.typo-content-first {
+    gap: 16px;
     align-items: center;
 }
-.hiring-watch-time{
+
+.hiring-watch-time {
     gap: 8px;
     align-items: center;
     border-right: 1px solid rgb(23 23 23 / 10%);
     padding-right: 16px;
 }
-.hiring-watch-time .watch{
+
+.hiring-watch-time .watch {
     width: 24px;
     height: 24px;
+
+}
+
+.hiring-watch-time p {
+    opacity: 0.9;
+}
+
+.hiring-year {
+    opacity: 0.9;
+}
+
+/* ****************TeamLead-section****************** */
+.Team-lead-inner-padding {
+    padding: 150.5px 0px;
+}
+
+.Team-lead-inner-padding .title_h3 {
+    text-align: center;
+}
+
+.team-lead-content-wrapper {
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+}
+
+.team-content-ptn-box {
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+    justify-content: space-between;
+    gap: 24px;
+    padding: 32px 0px;
+    border-bottom: 1px solid rgb(23 23 23 / 10%);
+}
+
+.ptn-content-first-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.team-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 16px;
+}
+
+.ptn-content-first-box h4 {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    flex: 1 0 0;
+}
+
+.team-content-second-box p {
+    text-align: center;
+    text-align: center;
+    flex: 1 0 0;
+}
+
+.team-content-third p {
+    text-align: end;
+    flex: 1 0 0;
+    opacity: 0.8;
+    white-space: nowrap;
+}
+
+/* ****************Service-page**************** */
+/* *****************Service-page************* */
+.Service-page {
+    background-color: var(--lightgreen);
+    padding: 289px 0 260px 0px;
+    position: relative;
+}
+
+.service-page-banner-section {
+    display: flex;
+    flex-direction: column;
+    gap: 53px;
+    margin: 0 auto;
+}
+
+.service-page-banner-section .twenty_four_p {
+    opacity: 0.7;
+    max-width: 624px;
+}
+
+/* *************Service-Page-About-Design************* */
+.Service-Page-About-Product {
+    background-color: var(--white);
+    padding-top: 150px;
+}
+.Service-Page-main-ptn{
+    display: flex;
+    flex-direction: column;
+}
+.Service-Page-inner-class .title_h2 {
+    font-weight: 500;
+    white-space: nowrap;
+}
+.Service-Page-main-wrapper-class {
+    gap: 188px;
+    padding: 50px 0px;
+    align-items: flex-start;
+}
+.Service-Page-left-part{
+    width:576px ;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.Service-Page-right-part{
+    flex: 1;
+}
+.Service-Page-inner-content{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 24px;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(23 23 23 / 10%);
+}
+.Service-Page-first-ptn{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.Service-Page-first-ptn .twenty_four_p{
+    font-weight: 500;
+}
+
+.Service-Page-inner-content p{
+    font-size: 16px;
+    text-align: right;
+}
+.Service-image-icon-group{
+display: flex;
+gap: 24px;
+align-items: flex-start;
+align-content: flex-start;
+flex-wrap: wrap;
+}
+.img-ptn-box{
+    padding: 16PX;
+    border-radius: 8px;
+    background-color: var(--lightgreen);
+ display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 79px;
+    height: 79px;
+}
+.Service-Page-inner-content:nth-child(5){
+    border-bottom: none;
+}
+
+
+.Service-Page-inner-class {
+    padding-bottom: 56px;
+    margin-bottom: 120px;
+    border-bottom: 1px solid rgb(23 23 23 / 10%);
+}
+
+.Service-Page-inner-class:last-child {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+}
+
+
+/* ***************OurWork-Page************** */
+.OurWork-page {
+    background-color: var(--lightgreen);
+    padding: 289px 0 260px 0px;
+    position: relative;
+}
+
+.OurWork-page-banner-section {
+    display: flex;
+    flex-direction: column;
+    gap: 53px;
+    margin: 0 auto;
+}
+
+.OurWork-page-banner-section .twenty_four_p {
+    opacity: 0.7;
+    max-width: 649px;
+    font-size: 24px;
+}
+
+
+
+
+/* ******************************* */
+/* ****************Our_page_blog************************** */
+.OurWork-pg-blog{
+    padding: 150px 0px;
+    background-color: var(--white);
+}
+.OurWork-blog-second-ptn {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.OurWork-blog-card-ptn {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
     
 }
-.hiring-watch-time p{
-    opacity: 0.9;
+
+.OurWork-inner-card-img {
+    width: 786px;
+    height: 786px;
+    border-radius: 12px;
 }
-.hiring-year{
-    opacity: 0.9;
+
+.OurWork-inner-card-img.card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.column-card-ptn {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.gp-btn {
+    display: flex;
+    align-items: flex-start;
+    gap: 5px;
+}
+
+.our-blog-btn-cont {
+    display: flex;
+    padding: 8px 20px;
+    font-family: "Manrope";
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 1000px;
+    border: 0.5px solid #5d5d5d;
+}
+
+.blog-countless a {
+    color: var(--lightblack);
+    font-family: "Outfit";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.OurWork-pg-cardsecond-12 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
+    margin-top: 20%;
+
+}
+
+.OurWork-inner-card-img-12 {
+    width: 649px;
+    height: 649px;
+    border-radius: 12px;
+}
+
+.OurWork-inner-card-img-12 .card-img_12 {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.our-blog-cntt-ptn {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.OurWork-pg-card-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
+    margin-top: -8%;
+}
+
+.OurWork-inner-card-img-wapper{
+    width: 646px;
+    height: 656px;
+    border-radius: 12px;
+}
+
+.OurWork-inner-card-img-wapper.card-img-wp {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.OurWork-pg-content-ptn {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
+}
+
+.OurWork-inner-card-img-small-wipe {
+    width: 782px;
+    height: 764px;
+    border-radius: 12px;
+}
+
+.OurWork-inner-card-img-small-wipe .card-img-small {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }

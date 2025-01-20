@@ -168,7 +168,7 @@ html {
     max-width: 1700px;
     width: 100%;
     margin: 0 auto;
-    padding: 0 60px;
+    padding: 0 50px;
 }
 
 :root {
@@ -178,7 +178,7 @@ html {
     --white: #fefefe;
     --blue: #693edf;
     --lightgrey: #5d5d5d;
-    --orange: #ff5252;
+    --yellow: rgba(242, 161, 4, 0.50) --orange: #ff5252;
     --darkGray: rgba(23, 23, 23, 0.05)
 }
 
@@ -1836,29 +1836,35 @@ p {
     background-color: var(--white);
     padding-top: 150px;
 }
-.Service-Page-main-ptn{
+
+.Service-Page-main-ptn {
     display: flex;
     flex-direction: column;
 }
+
 .Service-Page-inner-class .title_h2 {
     font-weight: 500;
     white-space: nowrap;
 }
+
 .Service-Page-main-wrapper-class {
     gap: 188px;
     padding: 50px 0px;
     align-items: flex-start;
 }
-.Service-Page-left-part{
-    width:576px ;
+
+.Service-Page-left-part {
+    width: 576px;
     display: flex;
     flex-direction: column;
     gap: 50px;
 }
-.Service-Page-right-part{
+
+.Service-Page-right-part {
     flex: 1;
 }
-.Service-Page-inner-content{
+
+.Service-Page-inner-content {
     display: flex;
     align-items: center;
     gap: 16px;
@@ -1866,37 +1872,42 @@ p {
     justify-content: space-between;
     border-bottom: 1px solid rgb(23 23 23 / 10%);
 }
-.Service-Page-first-ptn{
+
+.Service-Page-first-ptn {
     display: flex;
     align-items: center;
     gap: 16px;
 }
-.Service-Page-first-ptn .twenty_four_p{
+
+.Service-Page-first-ptn .twenty_four_p {
     font-weight: 500;
 }
 
-.Service-Page-inner-content p{
+.Service-Page-inner-content p {
     font-size: 16px;
     text-align: right;
 }
-.Service-image-icon-group{
-display: flex;
-gap: 24px;
-align-items: flex-start;
-align-content: flex-start;
-flex-wrap: wrap;
+
+.Service-image-icon-group {
+    display: flex;
+    gap: 24px;
+    align-items: flex-start;
+    align-content: flex-start;
+    flex-wrap: wrap;
 }
-.img-ptn-box{
+
+.img-ptn-box {
     padding: 16PX;
     border-radius: 8px;
     background-color: var(--lightgreen);
- display: flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     width: 79px;
     height: 79px;
 }
-.Service-Page-inner-content:nth-child(5){
+
+.Service-Page-inner-content:nth-child(5) {
     border-bottom: none;
 }
 
@@ -1939,10 +1950,11 @@ flex-wrap: wrap;
 
 /* ******************************* */
 /* ****************Our_page_blog************************** */
-.OurWork-pg-blog{
+.OurWork-pg-blog {
     padding: 150px 0px;
     background-color: var(--white);
 }
+
 .OurWork-blog-second-ptn {
     padding-top: 20px;
     display: flex;
@@ -1956,7 +1968,7 @@ flex-wrap: wrap;
     flex-direction: column;
     align-items: flex-start;
     gap: 18px;
-    
+
 }
 
 .OurWork-inner-card-img {
@@ -2031,7 +2043,7 @@ flex-wrap: wrap;
     padding-top: 50px;
 }
 
-.OurWork-pg-card-container{
+.OurWork-pg-card-container {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -2039,7 +2051,7 @@ flex-wrap: wrap;
     margin-top: -8%;
 }
 
-.OurWork-inner-card-img-wapper{
+.OurWork-inner-card-img-wapper {
     width: 646px;
     height: 656px;
     border-radius: 12px;
@@ -2068,4 +2080,246 @@ flex-wrap: wrap;
     width: 100%;
     height: 100%;
     object-fit: contain;
+}
+
+/* *************ProductDeail-1*************** */
+.Product-Content {
+    padding-top: 209px;
+    background-color: var(--white);
+}
+
+.product-wrppaer {
+    gap: 239px;
+}
+
+.product-wrppaer h3 {
+    width: 773px;
+}
+
+.row-button-ptn {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.product-text {
+    display: flex;
+    padding: 8px 20px;
+    font-family: "Manrope";
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    gap: 10px;
+    border-radius: 1000px;
+    border: var(--yellow);
+    background: rgba(242, 161, 4, 0.12);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.product-subtact-image-ptn {
+    padding-top: 76px;
+}
+
+/* ************About-project*********** */
+
+.project-container {
+    gap: 253px;
+    padding: 124px 0px;
+}
+
+.product-row-ptn {
+    display: flex;
+    align-items: flex-start;
+    gap: 118.5px;
+    padding-top: 50px;
+}
+
+.product-row-ptn p {
+    white-space: nowrap;
+}
+
+.product-left-part h3 {
+    white-space: nowrap;
+}
+
+.product-first {
+    display: flex;
+    flex-direction: column;
+    row-gap: 6px;
+}
+
+.product-first .twenty_four_p {
+    font-weight: 500;
+}
+
+.product-right-part {
+    width: 785px;
+}
+
+.product-client {
+    font-style: 20px;
+    opacity: 0.7;
+}
+
+/* ************Product-grid-card************** */
+.product-card-img {
+    /* padding-top: 30px; */
+}
+
+.product-grid-ptn {
+    display: grid;
+    gap: 30px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.product-grid-ptn .card-two-img:first-child {
+    grid-column: span 2;
+
+}
+
+.card-two-img {
+    border-radius: 16px;
+    object-fit: cover;
+}
+
+/* ****************Guidline*************** */
+.guidline-project-main {
+    padding: 100px 0px;
+}
+
+.guidline-left-part h3 {
+    white-space: nowrap;
+}
+
+.guidline-right-part {
+    width: 785px;
+}
+
+.guidline-rigth-part p {
+    opacity: 0.7;
+}
+
+.guidline-grid-card {
+    padding-top: 123px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
+
+.guidline-card img {
+    border-radius: 16px;
+
+}
+
+.guidline-card:nth-child(1) {
+    grid-area: 1 / 1 / 3 / 2;
+}
+
+.guidline-card:nth-child(2) {
+    grid-area: 1 / 2 / 2 / 3
+}
+
+.guidline-card:nth-child(3) {
+    grid-area: 2 / 2 / 3 / 3
+}
+
+/* *************Login Register***************** */
+.double-image-ptn img {
+    margin-top: 125px;
+    border-radius: 16px;
+}
+
+/* ********************************************* */
+/* **********************Product Deail-2Page************** */
+.Product-Content-2 {
+    padding-top: 209px;
+    background-color: var(--white);
+}
+
+.deal {
+    gap: 64px;
+}
+
+.deal h3 {
+    width: 948px;
+}
+
+.row-button-ptn {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding-top: 30px;
+}
+
+.deal-text {
+    display: flex;
+    padding: 8px 20px;
+    font-family: "Manrope";
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    gap: 10px;
+    border-radius: 1000px;
+    border-radius: 1000px;
+    border: 0.5px solid rgba(9, 87, 222, 0.50);
+    background: rgba(9, 87, 222, 0.12);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.product-subtact-image-ptn {
+    padding-top: 120px;
+}
+
+/* **********AboutProduct-2************* */
+
+.about-main-section {
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    padding-top: 80px;
+}
+.deal-flex {
+    padding-top: 30px;
+    gap: 48px;
+}
+
+.deal-left-part {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.product-first {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.product-first .twenty_four_p {
+    font-weight: 500;
+}
+
+.product-right-part {
+    width: 785px;
+}
+
+.product-client {
+    font-style: 20px;
+    opacity: 0.7;
+}
+.deal-card-ptn{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.working-ptn img {
+    width: 481px;
+    border-radius: 12px;
+}
+.deal-card-ptn .working-ptn:nth-child(2) {
+    margin-top: 20%;
 }

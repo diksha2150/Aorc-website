@@ -2726,7 +2726,7 @@ p {
 
 
 .tool-tilte {
-    padding: 20px 0px  150px 0px;
+    padding: 20px 0px 150px 0px;
     align-items: center;
     justify-content: center;
     display: flex;
@@ -2759,28 +2759,124 @@ p {
     padding: 22px;
     max-height: 140px;
 }
+
 /* ******************************* */
 /* *****************Contact US-Page********** */
-.contact-us-main{
+.contact-us-main {
     background-color: var(--lightgreen);
     position: relative;
     padding-top: 169px;
 }
-.contact-wrapper-section{
- gap: 166px;
+
+.contact-wrapper-section {
+    gap: 166px;
 }
-.contact-left-section{
-    padding-top:499px ;
-    display:flex;
+
+.contact-left-section {
+    padding-top: 499px;
+    display: flex;
     flex-direction: column;
     gap: 50px;
     max-width: 649px;
 }
-.contact-left-section p{
+
+.contact-left-section p {
     opacity: 0.7;
     padding-bottom: 410px;
     line-height: 36px;
 }
-.contact-left-section span{
+
+.contact-left-section span {
     color: var(--blue);
+}
+
+/* ***********Contact Reach************ */
+.map-content-wrapper {
+    display: flex;
+    justify-content: end;
+}
+.right-content-title{
+    width: 48%;
+}
+.right-wrapper h3 {
+    max-width: 513px;
+}
+.list-li p{
+    flex: 1;
+}
+.right-wrapper {
+    padding: 178px 0px 158px;
+    width: 100%;
+}
+
+.map-loction-ptn {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    padding-top: 50px;
+}
+.list-li{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    
+}
+
+.list-li p {
+    opacity: 0.9;
+    line-height: 36px;
+}
+.list-li:nth-child(1){
+    align-items: flex-start;
+}
+
+.location-circle {
+    border-radius: 10000px;
+    display: flex;
+    width: 60px;
+    height: 60px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(105, 62, 223, 0.10);
+}
+.location-circle .img{
+    object-fit: cover;
+ 
+}
+
+
+
+.left-content-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 945px;
+}
+.left-content-image:after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(./images/{1CA0BEBA-188F-44F2-A679-E6CDE7F889A5}\ 2\ \(1\).png);
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+.left-content-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+section.map-contact {
+    position: relative;
+    max-width: 1920px;
+    margin: 0px auto;
+}
+.right-content-title {
+    width: 40.15%;
 }

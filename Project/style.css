@@ -174,7 +174,7 @@ html {
 :root {
     --black: #201e1e;
     --lightblack: #171717;
-    --opacity:rgb(23 23 23 / 70%);
+    --opacity: rgb(23 23 23 / 70%);
     --lightgreen: #f6fafb;
     --white: #fefefe;
     --blue: #693edf;
@@ -2617,7 +2617,6 @@ p {
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 
 .pricing-ptn {
@@ -2628,25 +2627,160 @@ p {
     flex-direction: column;
     gap: 30px;
 }
-.pricing-ptn p{
+
+.pricing-ptn p {
     padding: 0px 30px;
 }
-.btn-group{
+
+.btn-group {
+    max-width: 514px;
+    padding: 8px;
+    background-color: var(--lightgreen);
+    border-radius: 1000px;
+}
+
+.btn-section-first {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 8px;
-    background-color: var(--lightgrey);
-    border-radius: 1000px;
- 
-}
-.btn-first{
-    padding: 12px 16px;
-}
-.btn-first:nth-child(2){
-    
 }
 
-.active{
-    background-color:var(--lightblack) ;
+.btn-first:nth-child(1) {
+    width: 156px;
+    padding: 12px 16px;
+}
+
+.btn-first {
+    padding: 12px 16px;
+}
+
+.color-text a {
+    color: var(--lightblack);
+    text-align: center;
+    font-family: "Outfit";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.active {
+    background-color: var(--lightblack);
+    white-space: nowrap;
+    border-radius: 10000px;
+}
+
+.active .color-text {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.active .color-text a {
+    color: var(--white);
+}
+
+.active span {
+    color: #CEC2EE;
+    text-align: center;
+    font-family: "Manrope";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.btn-group .btn-section-first .btn-first:nth-child(3) .color-text span {
+    color: #693edf;
+}
+
+.btn-first:nth-child(3) {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* *************Table-section********** */
+/* *************Tool-choice************ */
+.tool-chioce {
+    padding: 150px 0px;
+}
+
+.choice-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    row-gap: 30px;
+    max-width: 783px;
+    margin: 0 auto;
+}
+
+.choice-title p {
+    text-align: center;
+    opacity: 0.7;
+    max-width: 638px;
+}
+
+
+
+.tool-tilte {
+    padding: 20px 0px  150px 0px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.tool-icon-ptn {
+    padding-top: 50px;
+    gap: 30px;
+    display: flex;
+    max-width: 1178px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.tool-images img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.tool-images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 22.5%;
+    min-height: 140px;
+    padding: 22px;
+    max-height: 140px;
+}
+/* ******************************* */
+/* *****************Contact US-Page********** */
+.contact-us-main{
+    background-color: var(--lightgreen);
+    position: relative;
+    padding-top: 169px;
+}
+.contact-wrapper-section{
+ gap: 166px;
+}
+.contact-left-section{
+    padding-top:499px ;
+    display:flex;
+    flex-direction: column;
+    gap: 50px;
+    max-width: 649px;
+}
+.contact-left-section p{
+    opacity: 0.7;
+    padding-bottom: 410px;
+    line-height: 36px;
+}
+.contact-left-section span{
+    color: var(--blue);
 }
